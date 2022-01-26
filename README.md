@@ -19,11 +19,11 @@ Some of categories/tags this portfolio includes: Machine Learning, Data Mining, 
 
 #### Autumn 2020 - Deepfake Detection Challenge
 Tag: Big data, Data processing, Image processing, Deep learning  
-Link of competition: https://www.kaggle.com/c/deepfake-detection-challenge  
-My notebook: https://www.kaggle.com/longenie/deepfake-detection-with-cnn-model  
-Description: Deepfake Detection Challenge is a featured competition, which is held to find deepfake detection techniques dealing with deepfake criminal in future - a way using deeplearning to fake other facial and voice illegally. An amateurs project to get used to handle big data, especially image frame. And somewhat get touch with deep learning model - CNN, Mesonet. This notebook is just a copy with available references for research and theory reporting. Our team has no rights for this contribution.
+Link of competition: <a href="https://www.kaggle.com/c/deepfake-detection-challenge" target="_blank">this link</a>  
+My notebook: <a href="https://www.kaggle.com/longenie/deepfake-detection-with-cnn-model" target="_blank">this link</a>  
+Description: Deepfake Detection Challenge is a featured competition, which is held to find deepfake detection techniques dealing with deepfake criminal in future - a way using deeplearning to fake other facial and voice illegally. This is an amateurs project to get used to handle big data, especially image frame. And somewhat get touch with deep learning model - CNN, Mesonet. The notebook is just a copy with available references for research and theory reporting. Our team has no rights for this contribution.
 
-[<img src="./images/deepfake.png" alt="Deepfake" align="left" />][imageproject]
+<img src="./images/deepfake.png" alt="deepfake" align="center" />
 
 
 
