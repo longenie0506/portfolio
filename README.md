@@ -10,6 +10,6 @@ Some of categories/tags this portfolio includes: Machine Learning, Data Mining, 
     <p>Birthday: 05/06/2000</p>
     <p>Phonenumber: 0943628543</p>
     <p>Email: longenie0506@gmail.com</p>
-    <p>Facebook: Hoàng Long <a>facebook.com/Longenie/</a></p>
+    <p>Facebook: Hoàng Long <a href="https://www.facebook.com/Longenie/" target="_blank">facebook.com/Longenie/</a></p>
   </div>
 </p>
