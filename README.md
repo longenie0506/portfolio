@@ -4,7 +4,7 @@ Some of categories/tags this portfolio includes: Machine Learning, Data Mining, 
 
 ## Background information
 <p align="center">
-  <img src="./images/profile.jpg" alt="Profile picture" height="320px" width="20%" align="left" />
+  <img src="./images/profile.jpg" alt="Profile picture" height="auto" width="30%" align="left" />
   <div alight="left" width="80%">
     <p>Name: Nguyễn Hoàng Long</p>
     <p>Birthday: 05/06/2000</p>
