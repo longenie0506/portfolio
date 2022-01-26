@@ -11,7 +11,6 @@ Some of categories/tags this portfolio includes: Machine Learning, Data Mining, 
     <p>Phonenumber: 0943628543</p>
     <p>Email: longenie0506@gmail.com</p>
     <p>Facebook: Hoàng Long <a href="https://www.facebook.com/Longenie/" target="_blank">facebook.com/Longenie/</a></p>
-    <p>Education: Ton Duc Thang University - Bachelor's degree, Computer Schience</p>
-    <small>2018-2022</small>
+    <p>Education: Ton Duc Thang University - Bachelor's degree, Computer Schience<br><small>2018-2022</small></p>
   </div>
 </p>
