@@ -41,3 +41,11 @@ We use Vectorizer and classical Classifier to predict simple answer. Lately, we 
 
 <img src="./images/chatbot.png" alt="deepfake" align="center" />
 
+#### Spring 2021 - Lane Detection in Image Processing
+Tag: Image processing, Lane Detection, OpenCV  
+Description: Lane detection is a classical topic that most belongs to image processing. Auto-drive device with lane detection mechanism used for safety check and predict the way to go. In this project we dont have allowance to use any machine learning or generating model to solve the problem, all works have to be based on analyzing image frame-to-fram. OpenCV provides tools for image processing as ROI extraction, Histogram, Colorspace converting...  
+This is a single research project. Afterall, we gain so much experience on using tools by OpenCV to process images.  
+One of our work is have to apply the techniques to day and night. We would love to improve the project in the future which has rain, people, low light, snow, colorful road...
+All the demo and program is privately personal for school reporting.
+
+<img src="./images/lanedetect.png" alt="deepfake" align="center" />
