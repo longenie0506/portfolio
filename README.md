@@ -26,10 +26,10 @@ Description: Deepfake Detection Challenge is a featured competition, which is he
 <img src="./images/deepfake.png" alt="deepfake" align="center" />
 
 #### Autumn 2020 - Hashing Algorithms in Information Security
-Tag: Information Security, Hash, sha256
-Demo run in local device with private usage so as not to have any reference link for this. But chill out, details better. 
-Description: SHA256 - “Secure Hash Algorithm 256-bit”, is one of the most common hashing algorithms, a next version of SHA-1, there are so many algorithms in SHA-family. SHA256 gives 256bit long output in 64 characters.
-Our project is implement a tool to generate SHA256 from any text. This is so useful for password hashing or verify networking packages or SSL protocol (ref). This simulate use a public SHA256 ref to demo. Our work is a way more salty, it's apply salt to the SHA256 algorithms just to make "with the same text, we get different hashes", but also have to make sure those hashes always decoded into the same text at first.
+Tag: Information Security, Hash, sha256  
+Demo run in local device with private usage so as not to have any reference link for this. But chill out, details better.  
+Description: SHA256 - “Secure Hash Algorithm 256-bit”, is one of the most common hashing algorithms, a next version of SHA-1, there are so many algorithms in SHA-family. SHA256 gives 256bit long output in 64 characters.  
+Our project is implement a tool to generate SHA256 from any text. This is so useful for password hashing or verify networking packages or SSL protocol (ref). This simulate use a public SHA256 ref to demo. Our work is a way more salty, it's apply salt to the SHA256 algorithms just to make "with the same text, we get different hashes", but also have to make sure those hashes always decoded into the same text at first.  
 The demo is hosted by Flask framework.
 
 <img src="./images/hashing.png" alt="deepfake" align="center" />
