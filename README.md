@@ -34,3 +34,10 @@ The demo is hosted by Flask framework.
 
 <img src="./images/hashing.png" alt="deepfake" align="center" />
 
+#### Spring 2021 - Vietnamese Chatbot Building
+Tag: Chatbot, Natural Language Processing, Machine Learning  
+Description: This is a class research project to report student's chatbot from the Vietnamese dataset built by our class too. We use any natural language processing techniques as feature extraction, word segmentation, lemmatizing, vectorize, pos tagging... Some works cool on dataset, some seems not work on Vietnamese dataset.  
+We use Vectorizer and classical Classifier to predict simple answer. Lately, we use a technique call word2vec to increase the accuracy and make It way more look-real, but It's stull bag of words or some kind of that, that seems not so "chatbot" after all. LSTM is a somewhat better model for any generating problem. The model is from a reference, thanks to the author. We just need to make my own vocab and process Vietnamese text. It works fine but the most regretful thing is we didnt improve it to later techniques BERT or hybrid system - which is the best nowadays. 
+
+<img src="./images/chatbot.png" alt="deepfake" align="center" />
+
