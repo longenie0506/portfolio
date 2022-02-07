@@ -32,14 +32,14 @@ Description: SHA256 - “Secure Hash Algorithm 256-bit”, is one of the most co
 Our project is implement a tool to generate SHA256 from any text. This is so useful for password hashing or verify networking packages or SSL protocol (ref). This simulate use a public SHA256 ref to demo. Our work is a way more salty, it's apply salt to the SHA256 algorithms just to make "with the same text, we get different hashes", but also have to make sure those hashes always decoded into the same text at first.  
 The demo is hosted by Flask framework.
 
-<img src="./images/hashing.png" alt="deepfake" align="center" />
+<img src="./images/hashing.png" alt="hashing" align="center" />
 
 #### Spring 2021 - Vietnamese Chatbot Building
 Tag: Chatbot, Natural Language Processing, Machine Learning  
 Description: This is a class research project to report student's chatbot from the Vietnamese dataset built by our class too. We use any natural language processing techniques as feature extraction, word segmentation, lemmatizing, vectorize, pos tagging... Some works cool on dataset, some seems not work on Vietnamese dataset.  
 We use Vectorizer and classical Classifier to predict simple answer. Lately, we use a technique call word2vec to increase the accuracy and make It way more look-real, but It's stull bag of words or some kind of that, that seems not so "chatbot" after all. LSTM is a somewhat better model for any generating problem. The model is from a reference, thanks to the author. We just need to make my own vocab and process Vietnamese text. It works fine but the most regretful thing is we didnt improve it to later techniques BERT or hybrid system - which is the best nowadays. 
 
-<img src="./images/chatbot.png" alt="deepfake" align="center" />
+<img src="./images/chatbot.png" alt="chatbot" align="center" />
 
 #### Spring 2021 - Lane Detection in Image Processing
 Tag: Image processing, Lane Detection, OpenCV  
@@ -48,4 +48,30 @@ This is a single research project. Afterall, we gain so much experience on using
 One of our work is have to apply the techniques to day and night. We would love to improve the project in the future which has rain, people, low light, snow, colorful road...
 All the demo and program is privately personal for school reporting.
 
-<img src="./images/lanedetect.png" alt="deepfake" align="center" />
+<img src="./images/lanedetect.png" alt="lanedetect" align="center" />
+
+#### Autmn 2021 - Variational Autoencoder with Probabilistic Layers
+Tag: TensorFlow Probability (TFP), Variational Autoencoder, Probablity & Statistic, Machine learning  
+Description: Simple schoolwork just for researching one of the TFP features as probilistic layers used in variational autoencoder. Most of the work, we work by single just to know exactly theory and definition that TFP provides.
+Application just simple stopped in MNIST dataset, It's better to visualize on any other real dataset to make a fully generate system.
+Link of Reference's notebook: <a href="kaggle.com/fazilbtopal/variantional-autoencoders-vae" target="_blank">this link</a> 
+
+<img src="./images/variationalautoencoder.png" alt="variationalautoencoder" align="center" />
+
+#### Autumn 2021 - Differentially Private Machine Learning Training
+Tag: Differential Privacy, DPSGD, Machine Learning  
+Description: Researchers found that machine learning can also be useful on security problems. When the world is getting harder by the fighter between white and black hat hacker, and informations are much valuable than ever, security then becomes one of the most anxiety think to be improved.  
+We have a Collab Notebook but It's a private account so cant be shared but we will show more we have
+One of our work is have to apply the techniques to day and night. We would love to improve the project in the future which has rain, people, low light, snow, colorful road...  
+Link of the dataset: <a href="https://www.kaggle.com/netflix-inc/netflix-prize-data" target="_blank">this link</a>. So many story around this dataset. We could use this to examine our security techniques, especially, DPSGD.  
+By the modifying properties, we can increase the privacy of information, but take care, increase privacy is also decrease data-integrity (means data would loss so much).
+
+<img src="./images/privacy.png" alt="privacy" align="center" />
+
+#### Autumn 2021 - Twitter Sentiment Analysis Application
+Tag: Sentimental Analysis, Twitter, Webapp  
+Description: Return to a simple and relaxing project. We developed a webapp on Streamlit hosting framework. Streamlit is a fun framework that helps us to implement data visualization or data application in simplest way. From our first notebook with natural language analysis, we push these repositories into a webapp that gets text and tag to predict sentiment of any tweets.  
+The accuracy and functionality are not perfect afterall. We hope to improve it by use Twitter API to read text by URL, and increase trust. Take a look on our web.  
+Link of Web: <a href="https://share.streamlit.io/longenie0506/twittersentiment/main/tweetSA.py" target="_blank">this link</a>. Sorry for sometimes It drops :( 
+
+<img src="./images/twitter.png" alt="twitter" align="center" />
