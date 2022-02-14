@@ -41,6 +41,14 @@ We use Vectorizer and classical Classifier to predict simple answer. Lately, we 
 
 <img src="./images/chatbot.png" alt="chatbot" align="center" />
 
+#### Spring 2021 - Vietnamese Comment Classifying
+Tag: Natural Language Processing, Datamining, Sentiment Analysis
+Description: Another NLP project. Not like chatbot or linguistic analyzing, this session is much more a sentiment analyzing work. We have some comparison between classical model (Naive Bayes, Decision Tree, K-nearest Neighbors) and a kind of Neural Network model (Long-short term memory). These classification models were used for analysing sentiment into classes as  "Disgust", "Enjoyment", "Anger", "Surprise", "Sadness", "Fear". 
+The dataset mentioned: <a href="http://nlp.uit.edu.vn/datasets/" target="_blank">UIT-VSMEC (version 1.0) – Vietnamese Social Media Emotion Corpus</a>  
+One another small task in this projecct is using datamining techniques to crawl comments, specifically, Vietnamese Youtube Comments crawled with chrome driver. Then we use some dataprocessing techniques to handle those data as: PCA, Feature selection and NLP works. 
+
+<img src="./images/sentiment.png" alt="sentiment" align="center" />
+
 #### Spring 2021 - Lane Detection in Image Processing
 Tag: Image processing, Lane Detection, OpenCV  
 Description: Lane detection is a classical topic that most belongs to image processing. Auto-drive device with lane detection mechanism used for safety check and predict the way to go. In this project we dont have allowance to use any machine learning or generating model to solve the problem, all works have to be based on analyzing image frame-to-fram. OpenCV provides tools for image processing as ROI extraction, Histogram, Colorspace converting...  
@@ -50,7 +58,7 @@ All the demo and program is privately personal for school reporting.
 
 <img src="./images/lanedetect.png" alt="lanedetect" align="center" />
 
-#### Autmn 2021 - Variational Autoencoder with Probabilistic Layers
+#### Autumn 2021 - Variational Autoencoder with Probabilistic Layers
 Tag: TensorFlow Probability (TFP), Variational Autoencoder, Probablity & Statistic, Machine learning  
 Description: Simple schoolwork just for researching one of the TFP features as probilistic layers used in variational autoencoder. Most of the work, we work by single just to know exactly theory and definition that TFP provides.
 Application just simple stopped in MNIST dataset, It's better to visualize on any other real dataset to make a fully generate system.
@@ -75,3 +83,5 @@ The accuracy and functionality are not perfect afterall. We hope to improve it b
 Link of Web: <a href="https://share.streamlit.io/longenie0506/twittersentiment/main/tweetSA.py" target="_blank">this link</a>. Sorry for sometimes It drops :( 
 
 <img src="./images/twitter.png" alt="twitter" align="center" />
+
+## Thank you for watching my portfolio
