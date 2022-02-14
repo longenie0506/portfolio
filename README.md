@@ -80,8 +80,9 @@ By the modifying properties, we can increase the privacy of information, but tak
 Tag: Sentimental Analysis, Twitter, Webapp  
 Description: Return to a simple and relaxing project. We developed a webapp on Streamlit hosting framework. Streamlit is a fun framework that helps us to implement data visualization or data application in simplest way. From our first notebook with natural language analysis, we push these repositories into a webapp that gets text and tag to predict sentiment of any tweets.  
 The accuracy and functionality are not perfect afterall. We hope to improve it by use Twitter API to read text by URL, and increase trust. Take a look on our web.  
-Link of Web: <a href="https://share.streamlit.io/longenie0506/twittersentiment/main/tweetSA.py" target="_blank">this link</a>. Sorry for sometimes It drops :( 
+Link of Web: <a href="https://share.streamlit.io/longenie0506/twittersentiment/main/tweetSA.py" target="_blank">this link</a>. Sorry for sometimes It drops due to streamlit limit hosting :( 
 
 <img src="./images/twitter.png" alt="twitter" align="center" />
 
-## Thank you for watching my portfolio
+### Thank you for watching my portfolio
+I would so much pleasure to receive any message. If you want to see closer, just contact me anytime 💇‍♂️💇‍♀️
