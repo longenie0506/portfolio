@@ -89,17 +89,21 @@ Link of Web: <a href="https://share.streamlit.io/longenie0506/twittersentiment/m
 Tag: Computer Vision, Emotion Recognization, Differential Privacy
 Description: EMOTIC in the reference: EMOTIC (EMOTIons in Context) - Introduced by Kosti et al. in Context Based Emotion Recognition using EMOTIC Dataset.
 A powerful model which mainly focused on emotion recognization through image context. The research proposed an approach to recognize multiple emotions within 26 emotion labels, not just by facial captures. This method is even more reliable, explainable and truthful as it recognizes emotion by body pose and background context. The model consists of two main parts: Body feature extraction (to detect features in the human poses and their emotions) and Image feature extraction (to detect features in the whole background and the emotions conveyed by it).
+We added in SGD algorithm so as to maintain differential privacy, ensuring that the training data images are well-secured..
 
 <img src="./images/emotic3.png" alt="emotic" align="center" />
 
-#### Autumn 2022 - PIX2PIX - A GAN model to generate pixel art from sketches
+#### Autumn 2023 - PIX2PIX - A GAN model to generate pixel art from sketches
 Tag: Computer Vision, Emotion Recognization, Differential Privacy
 Description: The objective of this project is to generate a variety of pixel art from sketches for use in the game industry.
 Due to the lack of available sketch/pixel art data, I built a simple Convolutional Neural Network (CNN) to convert pixel art into color sketches.
 The data generated from the CNN is then used as training data for a Generative Adversarial Network (GAN) to convert simple sketches into complete pixel art.
 intend to rerun this project to refine the model and achieve more applicable results.
 
-<img src="./images/pix2pix" alt="pix2pix" align="center" />
+<img src="./images/pix2pix.png" alt="pix2pix" align="center" />
+
+### 2024
+Intend to have a long-term computer vision project...
 
 ### Thank you for watching my portfolio
-I would so much pleasure to receive any message. If you want to see closer, just contact me anytime 💇‍♂️💇‍♀️
+I would so much pleasure to receive any message. Don't hesitate to contact to me  💇‍♂️💇‍♀️
